@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.menu.com" resolutions="1x" timestamp="1672156498059">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.menu.com" resolutions="1x" timestamp="1672157759142">
   <folder name="tablet">
     <folder name="css">
       <file name="index.css" crc="52980412" ref="tablet>index"/>
@@ -39,7 +39,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3991215729" ref="index"/>
+    <file name="index.css" crc="3868123641" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:tablet>index"/>
@@ -52,5 +52,5 @@
     <file name="require.js" crc="4177726516" ref="index:phone>index:tablet>index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:phone>index:tablet>index"/>
   </folder>
-  <file name="index.html" crc="366175260" seo="true" mt="1672147067072" redirect="true"/>
+  <file name="index.html" crc="3973803182" seo="true" mt="1672157652282" redirect="true"/>
 </manifest>
