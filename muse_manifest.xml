@@ -1,44 +1,56 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.menu.com" resolutions="1x" timestamp="1671971575909">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.menu.com" resolutions="1x" timestamp="1672147111274">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4033807146" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3815381088" seo="true" mt="1672147078359" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="467179493" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4150227179" seo="true" mt="1672147067024" redirect="true"/>
+  </folder>
   <folder name="images">
-    <file name="hero_hov01.jpg" crc="3953329685" ref="index">
+    <file name="hero_hov01.jpg" crc="3953329685" ref="index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hero01.jpg" crc="4106957769" ref="index">
+    <file name="hero01.jpg" crc="4106957769" ref="index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hero_hov02.jpg" crc="7160389" ref="index">
+    <file name="hero_hov02.jpg" crc="7160389" ref="index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hero02.jpg" crc="4041214022" ref="index">
+    <file name="hero02.jpg" crc="4041214022" ref="index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hero_hov03.jpg" crc="453468333" ref="index">
+    <file name="hero_hov03.jpg" crc="453468333" ref="index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hero03.jpg" crc="190059156" ref="index">
+    <file name="hero03.jpg" crc="190059156" ref="index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hero_hov04.jpg" crc="4267753326" ref="index">
+    <file name="hero_hov04.jpg" crc="4267753326" ref="index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hero04.jpg" crc="365633532" ref="index">
+    <file name="hero04.jpg" crc="365633532" ref="index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4049985143" ref="index"/>
+    <file name="index.css" crc="3991215729" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3939489907" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="128606099" ref="index"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:tablet>index"/>
+    <file name="museutils.js" crc="3939489907" ref="index:phone>index:tablet>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index:tablet>index"/>
+    <file name="museconfig.js" crc="128606099" ref="index:phone>index:tablet>index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:phone>index:tablet>index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:phone>index:tablet>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:phone>index:tablet>index"/>
+    <file name="require.js" crc="4177726516" ref="index:phone>index:tablet>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:phone>index:tablet>index"/>
   </folder>
-  <file name="index.html" crc="4140751434" seo="true" mt="1671971412059" redirect="true"/>
+  <file name="index.html" crc="366175260" seo="true" mt="1672147067072" redirect="true"/>
 </manifest>
