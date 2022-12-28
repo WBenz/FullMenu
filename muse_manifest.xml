@@ -1,15 +1,45 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.fullmenu.com" resolutions="1x" timestamp="1671892546497">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.menu.com" resolutions="1x" timestamp="1672255572420">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3796726675" ref="index"/>
+    <file name="index.css" crc="3937393355" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="3803043152" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
-  <file name="index.html" crc="3872851664" seo="true" mt="1671892509515" redirect="true"/>
+  <folder name="images">
+    <file name="naruto_btn.jpg" crc="169344527" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naruto_btn_1.jpg" crc="272880241" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="fem_btn_hov.jpg" crc="3789218171" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fem_btn.jpg" crc="483151059" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lion_btn_hov.jpg" crc="3894130617" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lion_btn.jpg" crc="390499651" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fem02_btn_hov.jpg" crc="3813582092" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fem02_btn.jpg" crc="519349547" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="311556112" seo="true" mt="1672246514407" redirect="true"/>
 </manifest>
