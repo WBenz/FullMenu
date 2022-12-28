@@ -1,56 +1,56 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.menu.com" resolutions="1x" timestamp="1672157759142">
-  <folder name="tablet">
-    <folder name="css">
-      <file name="index.css" crc="52980412" ref="tablet>index"/>
-    </folder>
-    <file name="index.html" crc="3829560086" seo="true" mt="1672156290268" redirect="true"/>
-  </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="4249480772" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="4274419868" seo="true" mt="1672156314959" redirect="true"/>
-  </folder>
-  <folder name="images">
-    <file name="hero_hov01.jpg" crc="3953329685" ref="index:phone>index:tablet>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hero01.jpg" crc="4106957769" ref="index:phone>index:tablet>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hero_hov02.jpg" crc="7160389" ref="index:phone>index:tablet>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hero02.jpg" crc="4041214022" ref="index:phone>index:tablet>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hero_hov03.jpg" crc="453468333" ref="index:phone>index:tablet>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hero03.jpg" crc="190059156" ref="index:phone>index:tablet>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hero_hov04.jpg" crc="4267753326" ref="index:phone>index:tablet>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hero04.jpg" crc="365633532" ref="index:phone>index:tablet>index">
-      <caption webpage="index" alt=""/>
-    </file>
-  </folder>
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.menu.com" resolutions="1x" timestamp="1672221849506">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3868123641" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:tablet>index"/>
-    <file name="museutils.js" crc="3939489907" ref="index:phone>index:tablet>index"/>
-    <file name="whatinput.js" crc="86476730" ref="index:phone>index:tablet>index"/>
-    <file name="museconfig.js" crc="128606099" ref="index:phone>index:tablet>index"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index:phone>index:tablet>index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:phone>index:tablet>index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:phone>index:tablet>index"/>
-    <file name="require.js" crc="4177726516" ref="index:phone>index:tablet>index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:phone>index:tablet>index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="128606099" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:tablet>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:tablet>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="hero_hov01.jpg" crc="3953329685" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero01.jpg" crc="4106957769" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero_hov02.jpg" crc="7160389" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero02.jpg" crc="4041214022" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero_hov03.jpg" crc="453468333" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero03.jpg" crc="190059156" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero_hov04.jpg" crc="4267753326" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero04.jpg" crc="365633532" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4166066411" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="458501826" seo="true" mt="1672221828503" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3878360406" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3765339506" seo="true" mt="1672221814270" redirect="true"/>
   </folder>
   <file name="index.html" crc="3973803182" seo="true" mt="1672157652282" redirect="true"/>
 </manifest>
