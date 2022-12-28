@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.menu.com" resolutions="1x" timestamp="1672221849506">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.menu.com" resolutions="1x" timestamp="1672223417923">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3868123641" ref="index"/>
@@ -52,5 +52,5 @@
     </folder>
     <file name="index.html" crc="3765339506" seo="true" mt="1672221814270" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3973803182" seo="true" mt="1672157652282" redirect="true"/>
+  <file name="index.html" crc="4078761695" seo="true" mt="1672222744021" redirect="true"/>
 </manifest>
